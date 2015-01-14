@@ -1,0 +1,17 @@
+Cmp-Mod V01 Created by Cvpcb (2015-01-02 BZR 5348)-product   date = 1/13/2015 9:23:33 PM
+
+BeginCmp
+TimeStamp = /54B5FB88;
+Reference = P1;
+ValeurCmp = CONN_02X13;
+IdModule  = local:26-pin-fpc-0.8mm-tft;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B5FBC7;
+Reference = P2;
+ValeurCmp = CONN_02X13;
+IdModule  = Pin_Headers:Pin_Header_Straight_2x13;
+EndCmp
+
+EndListe
