@@ -21,16 +21,16 @@ Looks like this: http://www.wayengineer.com/177“18-7735r-tft-lcd-screen-spi-se
 
 Pinout:
 * 1 NC
-* 2 VSS
-* 3 LED-
-* 4 LED+
-* 5 VSS
-* 6 /RET
-* 7 A0
-* 8 SDA
-* 9 SCK
-* 10 VDDA
+* 2 VSS - connect to GND
+* 3 LED- - connect to GND
+* 4 LED+ - connect to 3V3
+* 5 VSS - connect to GND
+* 6 /RESET - connect to Arduino D8
+* 7 A0, D/C - connect to Arduino D9
+* 8 SDA - connect to Arduino MOSI/D11
+* 9 SCK - connect to Arduino D13
+* 10 VDDA - connect to 3V3
 * 11 VDDIC
-* 12 /CS
-* 13 VSS
+* 12 /CS - connect to Arduino D10
+* 13 VSS - connect to GND
 * 14 NC
